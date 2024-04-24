@@ -1,0 +1,16 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "Create a bot that will reply to messages in the general channel when those messages conform to an expected command syntax. If it responds to messages in other channels too, that is OK, but we'll only be checking that it responds to messages in the general channel. Your bot must have an associated series of commands that it recognizes and responds to.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uzair Qureshi",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.12.0",
+    "dotenv": "^16.0.3",
+    "yelp-api": "^1.0.3"
+  }
+}

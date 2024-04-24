@@ -1,0 +1,22 @@
+Bot Description:
+This bot responds to specific commands from the any/all users excluding bots to give back information to the user
+about a specific company via their image, phone number, rating, location using the yelp-api web service.
+
+1st command: phonebusiness
+When the user types in this command the bot returns the image of the business
+
+
+2nd command: fastfood
+When the user types in this command the bot returns the location state of the business 
+
+
+3rd command: businessmatches
+When the user types in this command the bot returns alias of the specificed business
+
+
+4th command: auto
+When the user types in this command the bot returns the autocomplete suggestions for the specified business
+
+
+5th command: sport
+When the user types in this command the bot returns the rating of the specific business
